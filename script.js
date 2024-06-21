@@ -49,7 +49,7 @@ function generate(){
   }
   else
   {
-    document.getElementById('error').innerHTML = "⚠ You haven't selected a language dumbo"
+    document.getElementById('error').innerHTML = "⚠ You haven't selected a language"
     document.getElementById('rhead').innerHTML = ""
     document.getElementById('result').innerHTML = ""
   }
