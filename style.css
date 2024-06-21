@@ -1,0 +1,17 @@
+body {
+  font-family: Average;
+  text-align: center;
+}
+#error{
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+#wiki{
+  color: blue;
+}
+
+button{
+  font-family: Average;
+  font-weight: bold;
+}
