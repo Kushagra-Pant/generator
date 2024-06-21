@@ -73,7 +73,3 @@ loadWikis()
 function wiki(){
   document.getElementById("wiki").innerHTML = wikis[Math.floor(Math.random()*wikis.length)]
 }
-
-function score(){
-  
-}
